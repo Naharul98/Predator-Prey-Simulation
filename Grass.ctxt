@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Grass
+comment0.text=\r\n\ A\ model\ of\ a\ grass.\r\n\ grasses\ cannot\ move,\ and\ they\ are\ eaten\ by\ deers\ and\ rabbits\r\n\ In\ this\ simple\ model,\ grasses\ can\ reproduce.\r\n\ grasses\ dont\ have\ a\ maximum\ age.\r\n\ grasses\ can\ also\ spawn\ when\ it\ rains.\r\n\ @author\ A\ K\ M\ NAHARUL\ HAYAT\ and\ Noyan\ Raquib\ \r\n\ @version\ 2018.02.18\r\n
+comment1.params=x\ y
+comment1.target=Grass(Field,\ Location)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Grass\r\n\ creates\ a\ grass\ object\ and\ assigns\ it\ a\ location\r\n
+comment2.params=newGrass
+comment2.target=void\ giveBirth(java.util.List)
+comment2.text=\r\n\ New\ births\ of\ grasses\ will\ be\ made\ into\ free\ adjacent\ locations.\r\n\ @param\ newGrass\ A\ list\ to\ return\ newly\ born\ grasses.\r\n
+comment3.params=newGrass\ day
+comment3.target=void\ act(java.util.List,\ java.lang.Boolean)
+comment3.text=\r\n\ The\ grass\ breeds\ most\ of\ the\ time.\ It\ doesnt\ move.\r\n\ @param\ field\ The\ field\ currently\ occupied.\r\n\ @param\ newFoxes\ A\ list\ to\ return\ newly\ reproduced\ grasses.\r\n
+comment4.params=
+comment4.target=boolean\ canBreed()
+comment4.text=\r\n\ it\ is\ assumed\ that\ grasses\ can\ always\ breed\r\n\ @return\ true\r\n
+comment5.params=
+comment5.target=double\ getBreedingProbability()
+comment5.text=\r\n\ @return\ the\ breeding\ probability\ of\ the\ grass\r\n
+comment6.params=
+comment6.target=int\ getMaxLitterSize()
+comment6.text=\r\n\ @return\ the\ maximum\ reproduction\ size\ a\ grass\ can\ produce\ upon\ breeding\r\n
+numComments=7

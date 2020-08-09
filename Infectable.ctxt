@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Infectable
+comment0.text=\r\n\ Interface\ for\ disease/infection\ in\ the\ simulator\r\n\ This\ interface\ is\ implemented\ to\ facilate-\r\n\ the\ differentiaton\ of\ infected\ animal\ with\ uninfected\ ones\ by\ color\ in\ the\ grid\ of\ the\ silumator\r\n\ @author\ A\ K\ M\ NAHARUL\ HAYAT\ and\ Noyan\ Raquib\r\n\ @version\ 2018.02.18\r\n
+comment1.params=
+comment1.target=void\ spreadInfection()
+numComments=2

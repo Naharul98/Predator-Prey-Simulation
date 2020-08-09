@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PopulationGenerator
+comment0.text=\r\n\ This\ class\ concerns\ about\ the\ creation\ probability\ of\ \r\n\ different\ species\ in\ the\ simulator\ and\ the\ initial\ creation\ of\ \r\n\ animals\ when\ the\ simulator\ is\ first\ started.\ \r\n\ In\ addition,\ it\ also\ concerns\ about\ the\ color\ of\ different\r\n\ species\ in\ the\ simulator\ display\ grid.\u0000\r\n\r\n\ @author\ A\ K\ M\ NAHARUL\ HAYAT\ and\ Noyan\ Raquib\ \r\n\ @version\ 2018.02.18\r\n
+comment1.params=view
+comment1.target=PopulationGenerator(SimulatorView)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PopulationGenerator\r\n
+comment2.params=species\ field
+comment2.target=void\ populate(java.util.List,\ Field)
+comment3.params=species\ field
+comment3.target=void\ populatePlant(java.util.List,\ Field)
+comment3.text=\r\n\ After\ rain\ step\ count\ reaches\ rain\ interval,\ the\ rain\ probability\ is\ checked\ against\ random\ number\r\n\ If\ the\ rain\ fall\ probabiity\ is\ satisfied\r\n\ then\ this\ method\ is\ called\ to\ populate\ plants\ across\ the\ grid,\ using\ grass\ creation\ probability\r\n
+numComments=4

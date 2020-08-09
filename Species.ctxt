@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Species
+comment0.text=\r\n\ Interface\ for\ the\ species\ in\ the\ simulator\r\n\r\n\ @author\ A\ K\ M\ NAHARUL\ HAYAT\ and\ Noyan\ Raquib\ \r\n\ @version\ 2018.02.18\r\n
+comment1.params=newSpecies\ day
+comment1.target=void\ act(java.util.List,\ java.lang.Boolean)
+comment2.params=variable
+comment2.target=void\ setLocation(Location)
+numComments=3

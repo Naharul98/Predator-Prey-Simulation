@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=DayNight
+comment0.text=\r\n\ This\ class\ facilates\ the\ cycling\ of\ Day/Night\ in\ the\ simulator.\r\n\r\n\ @author\ A\ K\ M\ NAHARUL\ HAYAT\ and\ Noyan\ Raquib\ \r\n\ @version\ 2018.02.18\r\n
+comment1.params=
+comment1.target=DayNight()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ DayNight\r\n
+comment2.params=set
+comment2.target=void\ setDayNight(java.lang.Boolean)
+comment2.text=\r\n\ Represent\ a\ row\ and\ column.\r\n\ @param\ boolean\ to\ set\ the\ state\ of\ the\ time\ of\ the\ simulator.\r\n
+comment3.params=
+comment3.target=void\ cycle()
+comment3.text=\r\n\ Cycles\ day/night.\ If\ simulator\ is\ in\ day\ state\ then\ changes\ to\ night\ state\r\n\ If\ simulator\ is\ in\ night\ state\ then\ changes\ to\ day\ state\r\n
+comment4.params=
+comment4.target=boolean\ isDay()
+comment4.text=\r\n\ @return\ boolean\ of\ the\ current\ state\ of\ the\ day\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ @return\ String\ value\ of\ the\ current\ state\ of\ the\ day\r\n
+numComments=6
