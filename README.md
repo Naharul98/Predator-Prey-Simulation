@@ -1,2 +1,2 @@
 # Predator-Prey-Simulation
-### Simulates different species competing for resources and surviving from predators in an area
+#### A predator-prey simulation involving foxes, rabbits, wolfs, deer and grasses in an enclosed rectangular field.
