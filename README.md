@@ -7,3 +7,7 @@ How to start:
   - simulate(int numSteps) - where numSteps is an int representing number of time steps to run the simulation for.
   - runLongSimulation() - run simulation for a default of 3000 time step.
  
+ ## Simulator Parameters
+ The parameters for the simulator are listed as instance variable of the 'Simulator' class. To amend the parameters, simply amend the instance variable of this class.
+ 
+ ## Simulation Description
