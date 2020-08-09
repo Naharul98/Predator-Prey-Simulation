@@ -1,5 +1,5 @@
 # Predator-Prey-Simulation
-#### A predator-prey simulation involving foxes, rabbits, wolfs, deer and grasses in an enclosed rectangular field.
+#### A predator-prey simulation involving different types of species competing for resources and surviving.
 
 How to start:
 - Create an object of the Simulator class.
