@@ -8,7 +8,9 @@ How to start:
   - runLongSimulation() - run simulation for a default of 3000 time step.
  
 ### Simulator Parameters
-The parameters for the simulator are listed as instance variable of the 'Simulator' class. To amend the parameters, simply amend the instance variable of this class.
+The parameters for the core simulator are listed as instance variable of the 'Simulator' class. To amend the parameters, simply amend the instance variable of this class.
+
+The parameters for the  species in the simulator is located as instance variable of the respective species class. For example, parameters for 'Fox' species is located in the instance variable of the 'Fox' class.
  
 ### Simulator Species Description and Their Properties
 #### Rabbits (color code – Yellow) and Deer (color code – Black):
