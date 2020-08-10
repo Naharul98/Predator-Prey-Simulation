@@ -1,5 +1,5 @@
 # Predator-Prey-Simulation
-#### A predator-prey simulation involving different types of species competing for resources and surviving.
+#### A predator-prey simulation involving different types of species competing for resources and surviving in an enclosed area.
 
 How to start:
 - Create an object of the Simulator class.
